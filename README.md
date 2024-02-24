@@ -1,4 +1,4 @@
-# Become-a-Pokemon-Master
+# Become a Pokemon Master
 
 ## NOTE: The development of this project is discontinued as this repository has been archived
 
